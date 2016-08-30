@@ -1,4 +1,4 @@
-# ![](http://i.imgur.com/avB1fGr.png) PHP Weather
+# ![](http://i.imgur.com/ZfyVZPF.png?1) PHP Weather
 A simple PHP script that tells the weather in Celcius using the OpenWeatherMap API.
 
 Thanks to [unsplash](https://unsplash.com/) for the amazing backgrounds.
